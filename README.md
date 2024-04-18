@@ -33,11 +33,19 @@
 <p align="center">
 
  <a href="" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/Javascript-ffe326?style=for-the-badge&logo=javascript&logoColor=black">
+    <img alt="" src="https://img.shields.io/badge/Javascript-ffe326?style=for-the-badge&logo=javascript&logoColor=white">
  </a>
 
  <a href="" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp&logoColor=black">
+    <img alt="" src="https://img.shields.io/badge/HTML-f16a30?style=for-the-badge&logo=html5&logoColor=white">
+ </a>
+
+  <a href="" target="_blank">
+    <img alt="" src="https://img.shields.io/badge/CSS-0277bd?style=for-the-badge&logo=css3&logoColor=white">
+ </a>
+ 
+  <a href="" target="_blank">
+    <img alt="" src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp&logoColor=white">
  </a>
   
   <a href="" target="_blank">
@@ -72,36 +80,26 @@
   </a>
 </p>
 
-## Projects
+## Nearly Projects
 
-<a href="https://github.com/Nneji123/Website-Blocker">
+<a href="https://github.com/phongpham0702/PerfumeShop">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Website-Blocker&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phongpham0702&repo=PerfumeShop&theme=tokyonight" />
 
 </a>  
 
-<a href="https://github.com/Nneji123/Alien-Shooter">
-
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=tokyonight" />
-
-</a> 
-
-
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
-
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ifeanyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nneji123&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Phong's Github Stats" src="https://github-readme-stats.vercel.app/api?username=phongpham0702&show_icons=true&count_private=true&theme=tokyonight%22%20height=%22192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nneji123&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phongpham0702&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="phong" height="192px"/>
   <br/>
   </p>
 </details>
@@ -110,7 +108,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/nneji123"><img alt="Ifeanyi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nneji123&custom_title=Ifeanyi's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/phongpham0702"><img alt="Phong's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=phongpham0702&custom_title=Ifeanyi's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -118,7 +116,7 @@
 <br/>
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=phongpham0702&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
 
@@ -130,6 +128,4 @@
 </p>
 
 -----
-Credits: [Nneji123](https://github.com/Nneji123)
 
-Last Edited on: 4/30/2022
